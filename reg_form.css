@@ -132,6 +132,19 @@ form .button input{
 form .button input:hover{
     color: #fff;
 }
+h4{
+    color: #605c5c;
+    align-items: center;
+    justify-content: center;
+    margin-left: 150px;
+}
+.login{
+    list-style: none;
+    margin-left: 380px;
+    bottom: 5%;
+    text-decoration: none;
+}
+
 
 @media (max-width: 584px){
     .container{
